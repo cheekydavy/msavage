@@ -74,14 +74,14 @@ Powered by *Carl William*`);
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   CYBERION-V1               ║
+║   SAVAGE MD               ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by CARL-MD`);
+Powered by SAVAGE-MD`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
