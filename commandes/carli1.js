@@ -31,16 +31,16 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────《𝑺𝑷𝑨𝑹𝑲-𝑿》──────❒
+╭────《*SAVAGE MD*》──────❒
 ╏✰▏ *User* : ${s.OWNER_NAME}
-╏✰▏ *Developer* : *CARLTECH*
+╏✰▏ *Developer* : *MBUVI TECH*
 ╰───────────────────❒
 ╏✰▏ *Mode* : ${mode}
 ╏✰▏ *Commands* : ${cm.length} 
 ╰───────────────────❒
 ╏✰▏ *Time* : ${temps} 
 ╏✰▏ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-╏✰▏ *Version* : *✨SPARK X*
+╏✰▏ *Version* : *✨1.0*
 ╰───────────────────❒ \n\n`;
  
     let menuMsg=`  
@@ -62,7 +62,7 @@ const date = moment().format('DD/MM/YYYY');
             
 *■■■□□□□*
 
-  *CYBERION-SPARK-X*                                         
+  *SAVAGE MD*                                         
 *╰─═════════════■*
 `;
  
