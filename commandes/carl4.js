@@ -52,24 +52,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*Hey there wanna support carltech* 😎
+*Hey there wanna support Mbuvi Tech* 😎
 
 
 *Any way just follow the following channels*
 
 
 *Whatsapp channel*
-> https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
+> https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D
 
 *Telegram*
-> https://t.me.carlltecch 
+> https://t.me.mbuvi 
 
 *For more info*
-> https://github.com/carl24tech/CARLTECH-INFO 
+> https://github.com/cheekydavy
   `;
     
 let menuMsg = `
-> ©Carltech
+> ©Mbuvi Tech
 `;
 
    var lien = mybotpic();
